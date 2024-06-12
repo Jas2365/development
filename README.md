@@ -1,6 +1,4 @@
 # development
-<!--
-    ###########
-    test-readme 
-    ###########
--->
+
+Challenges done
+1.Qr-code 
