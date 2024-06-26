@@ -1,4 +1,4 @@
 # development
 
-Challenges done
-1.Qr-code 
+1.Alert buttons 
+2.Outline Buttons
